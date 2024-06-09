@@ -20,10 +20,13 @@ This project focuses on analyzing traffic accident data to uncover patterns and 
 
 
 ## Sample Screenshots
+
 ### Distribution based on time
+
 ![Time](https://github.com/kunal9960/PRODIGY_DS_05/blob/master/Time%20Category.png)
 
 ### Distribution based on months
+
 ![Month](https://github.com/kunal9960/PRODIGY_DS_05/blob/master/Month%20Category.png)
 
 
